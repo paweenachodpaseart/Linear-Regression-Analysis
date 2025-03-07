@@ -1,5 +1,5 @@
 <div id="header" align="center">
- <img src="https://github.com/paweenachodpaseart/Linear-Regression-Analysis/blob/main/New%20York%20House.jpg?raw=true"width="900"/>
+ <img src="https://github.com/paweenachodpaseart/Linear-Regression-Analysis/blob/main/NewYork%20House.jpg?raw=true"width="900"/>
 </div>
 
 # Regression-Analysis

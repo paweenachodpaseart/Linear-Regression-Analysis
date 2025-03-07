@@ -17,8 +17,8 @@ New York City is the most densely populated city in the United States and a glob
 - COUNTY: Location of the house in New York City (Brooklyn, Manhattan, Queens, Staten Island, The Bronx)
 
 #### 3. Data Analysis Methods
-      1. Preliminary Data Exploration
-- Analyzed mean, median, min-max values, and standard deviation.
+  1. Preliminary Data Exploration
+     - Analyzed mean, median, min-max values, and standard deviation.
 ##### 2. Relationship Analysis
 - Used scatter plots to identify trends between housing prices and independent variables.
 ##### 3. Developed a Multiple Linear Regression Model

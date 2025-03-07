@@ -1,3 +1,7 @@
+<div id="header" align="center">
+ <img src="https://github.com/paweenachodpaseart/Linear-Regression-Analysis/blob/main/New%20York%20House.jpg?raw=true"width="900"/>
+</div>
+
 # Regression-Analysis
 Predicting house prices in New York City 🏠
 
@@ -19,18 +23,18 @@ New York City is the most densely populated city in the United States and a glob
 #### 3. Data Analysis Methods
   1. Preliminary Data Exploration
      - Analyzed mean, median, min-max values, and standard deviation.
-##### 2. Relationship Analysis
-- Used scatter plots to identify trends between housing prices and independent variables.
-##### 3. Developed a Multiple Linear Regression Model
-- Incorporated multiple independent variables to predict housing prices.
-- Identified statistically significant variables.
-##### 4. Model Assumption Testing
-- Checked for linear relationships.
-- Examined residual distribution.
-- Assessed multicollinearity among independent variables.
-- Applied log transformation to improve data distribution.
-##### 5. Feature Selection
-- Used Forward Selection, Backward Elimination, and Stepwise Regression to determine the most influential variables.
+  2. Relationship Analysis
+     - Used scatter plots to identify trends between housing prices and independent variables.
+  3. Developed a Multiple Linear Regression Model
+     - Incorporated multiple independent variables to predict housing prices.
+     - Identified statistically significant variables.
+  4. Model Assumption Testing
+     - Checked for linear relationships.
+     - Examined residual distribution.
+     - Assessed multicollinearity among independent variables.
+     - Applied log transformation to improve data distribution.
+  5. Feature Selection
+     - Used Forward Selection, Backward Elimination, and Stepwise Regression to determine the most influential variables.
 
 #### 4.Results & Conclusion
 - The optimal regression equation identified key factors influencing housing prices: number of bathrooms, living area, house type, and location.
